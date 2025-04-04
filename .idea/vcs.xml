@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flight-Schedule-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ust-springsecurity-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-app-azure-sql-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-docker-flightsdata-main" vcs="Git" />
+  </component>
+</project>
