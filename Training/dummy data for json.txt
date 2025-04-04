@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "traineeId": "12345",
+        "name": "Java Training",
+        "skills": [
+            "Java",
+            "Spring",
+            "Hibernate"
+        ],
+        "duration": "DAYS",
+        "startDate": "2025-04-01",
+        "endDate": "2025-04-30",
+        "numberOfBatches": 3,
+        "studentsPerBatch": 30,
+        "budget": 5000.0,
+        "tableOfContent": "Introduction to Java, Spring Framework",
+        "organizationName": "Tech Inc.",
+        "poc": "John Doe",
+        "email": "contact@techinc.com",
+        "phone": "1234567890",
+        "studentType": "FRESHER",
+        "status": "UPCOMING"
+    }
+]
+
+
+
+
